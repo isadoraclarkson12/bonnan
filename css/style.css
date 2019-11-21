@@ -683,7 +683,7 @@ p.w3ls-title-sub {
 
 /* slides images */
 .wthree-slider {
-    background-image: url(../images/bg7.jpg);
+    background-image: url(../images/bgc.png);
     background-repeat: repeat-x;
     animation: slideleft 20000s infinite linear;
     -webkit-animation: slideleft 20000s infinite linear;
@@ -813,6 +813,9 @@ img.img-fluid.sub-img {
     border: 1px solid #c1c0c0;
     flex-basis: 75%;
     border-radius: 4px;
+}
+.hide{
+    display: none !important;
 }
 
 .newsletter-info button {
